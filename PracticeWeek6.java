@@ -13,7 +13,8 @@ public class PracticeWeek6 {
 		//Inheritance and Implementation together
 		//Inner class without constructor
 		//Inner class with constructor
-		//Singleton pattern
+		//Singleton pattern-private constructor
+		
 	}
 
 }
