@@ -89,6 +89,46 @@ public class StreamAPI {
 				//10% bonus in each one's salary
 				
 				System.out.println(salary.stream().map(a -> a + a * 0.1).toList());
+				
+				
+/************************************************************************************************************/
+
+				
+/* List<>
+/*Methods
+Arrays.asList(null)
+.stream()
+.filter()
+.stream().filter()
+.isEmpty()
+.toList()
+.count()
+.contains()
+.startsWith()
+.length()
+.map()
+.stream().map()
+.toUpperCase()
+
+ List.of() method
+to create an immutable list 
+we cannot add, remove, or modify elements after its creation. 
+If you need a mutable list that you can modify, you would typically use the 
+ArrayList class from the java.util package.
+
+
+.collect(Collectors.toList())
+ used in combination with the Stream API and the Collectors class to collect the
+ elements of a stream into a List.
+
+
+
+
+
+
+
+
+*/
 
 				
 		

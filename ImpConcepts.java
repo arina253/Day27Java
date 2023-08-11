@@ -127,6 +127,36 @@ public class ImpConcepts {
         
         
 ********************************************************************************
+import java.util.List;
+import java.util.ArrayList;
+
+// Declaration and initialization of a list of string 
+
+List<String> stringList = new ArrayList<>();
+
+stringList.add("Hello");
+stringList.add("World");
+stringList.add("Java");
+
+// Now stringList contains ["Hello", "World", "Java"]
+
+**********************************************************************************************************
+
+The List.of() method 
+creates an immutable list containing the provided elements.
+we cannot add, remove, or modify elements after its creation. 
+If we need a mutable list that you can modify, you would typically use the ArrayList class 
+
+
+Declaration and initialization of list of strings in a single line through List.of()
+
+List<String> stringList = List.of("Hello", "World", "Java");
+
+// Now stringList contains ["Hello", "World", "Java"]
+
+*************************************************************************************************************
+
+
        
 */
 
