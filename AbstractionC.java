@@ -47,11 +47,11 @@ public class AbstractionC {
 			}
 
 			public void loan() {
-				System.out.println("I am loan method from " + this.bankName);
+				System.out.println("I am loan method from " + "NIB2");
 			}
 
 			public void save() {
-				System.out.println("I am save method from " + this.bankName);
+				System.out.println("I am save method from " + "NIB2");
 			}
 
 			public void branchName() {
@@ -69,11 +69,11 @@ public class AbstractionC {
 			}
 
 			public void loan() {
-				System.out.println("I am loan method from " + this.bankName);
+				System.out.println("I am loan method from " + "ADB1");
 			}
 
 			public void save() {
-				System.out.println("I am save method from " + this.bankName);
+				System.out.println("I am save method from " + "ADB1");
 			}
 
 			public void branchName() {

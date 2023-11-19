@@ -119,11 +119,13 @@ public class ImpConcepts {
  
  
  Different ways to loop through a Map using the HashMap implementation.
-        Looping through the Map using entrySet
+        Looping through the Map using entrySet------entry.getKey() & entry.getValue()
         Looping through the Map using keySet
         Looping through the Map using values
         Looping through the Map using keySet and get method
         Looping through the Map using EntrySet and get method
+        Looping through the Map using iterator
+         (Iterator,hasNext(),next(),entrySet(),iterator(),entry.getKey(),entry.getValue())
         
         
 ********************************************************************************

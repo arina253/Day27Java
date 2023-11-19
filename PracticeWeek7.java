@@ -5,7 +5,7 @@ public class PracticeWeek7 {
 	public static void main(String[] args) {
 	
 		
-		//Day 29-Day 31 & Day32 - Day 
+		//Day 29-Day 31 
 		
 		 /*  Enum
 	         Exception-try,catch,finally
